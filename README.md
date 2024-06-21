@@ -1,6 +1,8 @@
 # Página de receita
 
-![preview](./.github/print-projeto.png)
+<div align="center">
+    <img src="./.github/print-projeto.png" alt="preview">
+</div>
 
 > Formação FullStack
 
